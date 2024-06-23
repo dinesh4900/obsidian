@@ -1,4 +1,5 @@
 # Ignore Obsidian specific files
+.obsidian
 .obsidian/cache/
 .obsidian/*.log
 .obsidian/*.lock

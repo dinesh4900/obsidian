@@ -15,9 +15,18 @@ Status: In Progress
 
 5. **Shards and Replicas**: Elasticsearch divides each index into multiple pieces called shards, and each shard can have zero or more replicas.
 
-### Reference
+### Data types
 
-https://chatgpt.com/share/2a15cd53-d5d9-44f3-974f-0edf2e8693de
+
+
+
+### Details
+
+[[Index]]
+
+
+
+### Reference
 
 
 
